@@ -1,0 +1,6 @@
+{
+  "name": "Ticket Stub Generator",
+  "description": "Generate beautiful ticket stubs from your photos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
