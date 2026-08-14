@@ -2,8 +2,7 @@
 
 一个优雅、极简的在线票根生成工具。通过上传照片并进行简单的文本和排版定制，快速生成具有设计感的纪念票根。
 
-![Stub Studio Preview](./screenshot.png) 
-*(💡 提示：请在项目根目录下放一张名为 `screenshot.png` 的应用截图，以在 GitHub 上展示最佳效果)*
+![Stub Studio Preview](./assets/UImain.png) 
 
 ## ✨ 特性 (Features)
 
